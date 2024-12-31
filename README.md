@@ -1,1 +1,1 @@
-# Analysis of Information in Morphology and Morphospace
+# AIMM - Analysis of Information in Morphology and Morphospace
