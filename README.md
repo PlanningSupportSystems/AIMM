@@ -74,3 +74,14 @@ Data Integration:
 
 Reads CSV files with customizable delimiters and decimal separators.
 Handles missing or malformed data gracefully, ensuring robust operation.
+
+![line_size_heatmap_Washington_Cut](https://github.com/user-attachments/assets/68b4b3a6-bad3-4055-9fa7-f1a0f49f3a6b)
+![heatmap_Washington_Cut](https://github.com/user-attachments/assets/5af2a8f4-f954-4048-b08f-05aafa131a04)
+
+![Captura de tela 2024-12-31 203429](https://github.com/user-attachments/assets/56cb4c11-aff5-4b43-af1a-cff2cd164fca)
+![Captura de tela 2024-12-31 203448](https://github.com/user-attachments/assets/ce952d4b-63cb-4533-b717-b25c0b1afe44)
+![Captura de tela 2024-12-31 203507](https://github.com/user-attachments/assets/1279b22b-3d55-49d8-b4bf-a7bc3a848960)
+![Captura de tela 2024-12-31 203401](https://github.com/user-attachments/assets/1a1198ec-bb2b-4dad-9330-47a44f12437e)
+
+
+
