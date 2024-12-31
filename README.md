@@ -44,3 +44,33 @@ Customizable Parameters:
 
 Allows user-defined block sizes for entropy and density calculations.
 Configurable thread count for optimized performance on large datasets.
+
+Morphospace Visualization Tool
+This is a Python-based data visualization tool designed to analyze and display multidimensional datasets in 3D and 2D morphospace representations. It leverages Matplotlib for visualization and Pandas for data manipulation, enabling intuitive and detailed exploration of complex data.
+
+Key Functionalities:
+3D Morphospace Visualization:
+
+Displays data points in a 3D scatter plot, representing three key dimensions (e.g., Density, Permeability, Entropy).
+Points are color-coded based on their normalized distance from the origin, providing insights into spatial relationships.
+Point sizes reflect an additional attribute (e.g., Population Size), enabling quick identification of significant data points.
+Names are displayed above the points, with a visually distinct black outline for clarity.
+Dynamic Interaction:
+
+Supports interactive rotation of the 3D plot, with functionality to retrieve the current view angles for consistent reproduction of specific perspectives.
+2D Pairwise Projections:
+
+Generates separate 2D scatter plots for each pair of dimensions (e.g., x vs. y, x vs. z, y vs. z).
+Includes annotations with point names and visual attributes (color and size) consistent with the 3D plot.
+Normalization and Filtering:
+
+All dimensions are normalized to a consistent scale, considering extreme values while ensuring no data point is strictly 0 or 1.
+Points with empty labels are excluded from plots but retained in calculations to ensure accurate normalization.
+Customizability:
+
+Allows scaling adjustments (e.g., logarithmic scaling for specific axes).
+Supports dynamic color mapping and size adjustments based on user-defined criteria.
+Data Integration:
+
+Reads CSV files with customizable delimiters and decimal separators.
+Handles missing or malformed data gracefully, ensuring robust operation.
